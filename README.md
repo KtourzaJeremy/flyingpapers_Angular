@@ -4,6 +4,9 @@ Projet Final de mon Master Expert Digital, developped in Angular / TypeScript av
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.7.
 
+Basé sur le travail de  [ikismail](https://github.com/ikismail/Angular-ShoppingCart)
+Tutoriels utilisés : [Firebase connecté](https://medium.com/factory-mind/angular-cloud-firestore-step-by-step-bootstrap-tutorial-ecb96db8d071)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
